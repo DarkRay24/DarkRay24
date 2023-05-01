@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Niraj
-- 🌱 I’m currently learning Web Developing
+- 🌱 I’m currently learning App Development
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me :
 - Discord - DarkRay#7208
