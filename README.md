@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Niraj
-- 🌱 I’m currently learning App Development
+- 🌱 I’m currently learning Native Android Development with Kotlin 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me :
 - Discord - DarkRay#7208
