@@ -3,7 +3,7 @@
 <!--   <img src="your-profile-image-url" alt="Niraj" width="150px"> -->
 <!-- </p> -->
 
-<h1 align="center">Hello, I'm Niraj</h1>
+<h1 align="center">Hello, I'm Niraj 👋</h1>
 <h3 align="center">Android Developer | Kotlin</h3>
 
 <p align="center">
@@ -31,7 +31,9 @@
 <!--   <a href="https://twitter.com/github_nirajk24"><img alt="Twitter" src="https://skydoves.github.io/badges/twitter.svg"/></a> -->
 <!--   <a href="https://androiddev.social/@nirajk24"><img alt="Mastodon" src="https://skydoves.github.io/badges/mastodon.svg"/></a> -->
 <!--   <a href="https://www.youtube.com/@nirajk24"><img alt="YouTube" src="https://skydoves.github.io/badges/dove-youtube.svg"/></a></br></br> -->
-  <a href="https://github.com/nirajk24"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=nirajk24&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+<!--   <a href="https://github.com/nirajk24"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=nirajk24&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=nirajk24&hide=contribs&show_icons=true&count_private=true&theme=light" alt="Niraj's GitHub Stats">
+</a> 
 </p>
 
 
