@@ -39,6 +39,6 @@
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/nirajk24?style=social">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/nirajk24?style=social">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/nirajk24/nirajk24?style=social">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nirajk24/nirajk24">
+<!--   <img alt="GitHub forks" src="https://img.shields.io/github/forks/nirajk24/nirajk24?style=social">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nirajk24/nirajk24"> -->
 </p>
